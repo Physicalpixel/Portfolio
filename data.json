@@ -6,7 +6,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Interactive Timeseries",
@@ -15,7 +15,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Organizational Network Simulator",
@@ -24,7 +24,7 @@
 		"tech": ["Projects", "Cytoscape.js", "css", "html", "Bootstrap"],
 		"tags": ["bootstrap", "dataviz", "visualization", "cytoscape.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Extreme tempratures over the years",
@@ -33,7 +33,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["geojson", "dataviz", "visualization", "d3.js", "css", "html", "js", "mercator", "geographic", "timeseries", "interactive", "slider"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Stock Market Trend",
@@ -42,7 +42,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["line chart", "dataviz", "visualization", "d3.js", "stock market", "css", "html", "js", "interactive", "slider"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Image Mapper",
@@ -51,7 +51,7 @@
 		"tech": ["Projects", "js", "css", "html"],
 		"tags": ["application", "image mapper", "css", "html", "js", "interactive"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Top Emitting Companies",
@@ -60,7 +60,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "scatter plot"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Climate Risk Index",
@@ -69,7 +69,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "California Wildfire",
@@ -78,7 +78,7 @@
 		"tech": ["Projects", "Design", "kepler.gl", "Photoshop"],
 		"tags": ["dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Sample Landing Pages",
@@ -87,7 +87,7 @@
 		"tech": ["Projects", "Design", "D3.js", "css", "js", "html"],
 		"tags": ["3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Organization Network Graphs",
@@ -96,7 +96,7 @@
 		"tech": ["Projects", "Cytoscape.js", "css", "js", "html", "cytoscape.js"],
 		"tags": ["cytoscape.js", "network graph", "organizational", "3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "Graphic and UI",
@@ -105,7 +105,7 @@
 		"tech": ["Projects", "Design"],
 		"tags": ["design"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	},
 	{
 		"title": "New Media Art",
@@ -114,6 +114,6 @@
 		"tech": ["Projects", "Design", "New-Media"],
 		"tags": ["design", "new media", "arts", "art"],
 		"data": {},
-		"color": "#eee"
+		"color": "#EEEEEE"
 	}
 ]

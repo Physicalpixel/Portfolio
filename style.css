@@ -8,6 +8,7 @@
 }
 
 body {
+	background-color: #f9f9f9;
 	margin: 0;
 	padding: 0;
 }
@@ -20,9 +21,9 @@ body {
 	height: 60px;
 	display: flex;
 	align-items: center;
-	color: white;
+	color: #212121;
 	background-color: none;
-	box-shadow: 0px 0px 1px rgba(222, 222, 222, 0.2);
+	box-shadow: 1px 0px 10px rgba(222, 222, 222, 0.5);
 }
 
 .menu-icon {
@@ -50,12 +51,12 @@ body {
 }
 
 .sidebar {
-	color: white;
+	color: #212121;
 	height: calc(100vh - 8%);
 	justify-content: center;
 	align-items: center;
 	position: fixed;
-	top: 60px;
+	top: 70px;
 	bottom: 0;
 	left: 0;
 	width: 200px;
@@ -63,6 +64,7 @@ body {
 	transition: left 0.3s ease-in-out;
 }
 .sidebar div {
+	margin: 0;
 	top: 30px;
 	border-top-left-radius: 8px;
 	border-bottom-left-radius: 8px;
@@ -76,8 +78,9 @@ body {
 	transition: 0.3s;
 }
 .sidebar div:hover {
-	color: rgb(255, 255, 255);
-	font-size: 16px;
+	font-style: bold;
+	color: #212121;
+	font-size: 18px;
 	transition: 0.2s;
 }
 .icons {
@@ -94,7 +97,7 @@ body {
 	box-sizing: border-box;
 	position: fixed;
 	border-top-right-radius: 8px;
-	margin-left: 186px;
+	margin-left: 184px;
 	transition: 0.3s;
 	top: 60px;
 	width: calc(100vw - 200px);
@@ -108,7 +111,7 @@ body {
 	grid-template-columns: repeat(5, 1fr);
 	grid-auto-flow: row;
 	grid-auto-rows: 32.5%;
-	grid-gap: 8px;
+	grid-gap: 15px;
 	overflow: auto;
 }
 .main-content-main.collapsed {
@@ -117,6 +120,7 @@ body {
 	width: calc(100vw - 20px);
 }
 .main-content > *:nth-child(n) {
+	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.14);
 	text-decoration: none;
 	font-family: "Poppins";
 	font-size: 15px;
@@ -132,16 +136,17 @@ body {
 	font-size: 15px;
 	margin-top: 10px;
 	box-sizing: border-box;
-	padding: 5px;
+	padding: 10px;
 	height: 18%;
 	border-radius: 8px;
-	color: white;
+	color: #f6f6f6;
 	overflow: auto;
 	transition: 0.3s;
-	background-color: none;
+	background-color: #212121;
 }
 
 .footer.collapsed {
+	background-color: #212121;
 	margin-left: 1px;
 	margin-left: 0;
 	transition: 0.3s;
@@ -149,13 +154,13 @@ body {
 
 .fab.fa-linkedin {
 	font-size: 25px;
-	color: black;
+	color: #f6f6f6;
 }
 
 .fab.fa-github {
 	padding-left: 10px;
 	font-size: 25px;
-	color: black;
+	color: #f6f6f6;
 }
 
 .search-container {
@@ -168,7 +173,7 @@ body {
 }
 
 .search-input {
-	background-color: rgba(93, 93, 93, 0.5);
+	background-color: #eeeeee;
 	width: 100%;
 	height: 40px;
 	padding: 0px 10px;
@@ -177,20 +182,22 @@ body {
 	border-top-right-radius: 8px;
 }
 .searchicon {
-	background-color: rgb(94, 94, 94, 0.5);
+	background-color: #212121;
 	padding: 8px 8px;
+	color: #f6f6f6;
 	border-bottom-left-radius: 8px;
 	border-top-left-radius: 8px;
 }
 input:focus {
-	color: white;
+	color: #212121;
 }
 input {
 	border: white;
 	outline: white;
 }
 input::placeholder {
-	color: rgba(255, 255, 255, 0.5);
+	font-size: 14px;
+	color: #737373;
 }
 @media (max-width: 768px) {
 	.menu-icon {
