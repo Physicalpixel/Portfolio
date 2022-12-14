@@ -1,11 +1,12 @@
 [
 	{
-		"title": "Network Graph with Silos and Isolates",
+		"title": "Network Graph (Silos and Isolates)",
 		"url": "https://physicalpixel.github.io/D3/Network_Graph/index.html",
 		"name": "Siols and Isolates",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Interactive Timeseries",
@@ -13,15 +14,17 @@
 		"name": "TimeSeries Bar Chart",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
-		"title": "Organizatinal Network Simulator",
+		"title": "Organizational Network Simulator",
 		"url": "https://physicalpixel.github.io/Network_Simulator/Network_Simulator/index.htm",
 		"name": "Interactive Network Graph",
 		"tech": ["Projects", "Cytoscape.js", "css", "html", "Bootstrap"],
 		"tags": ["bootstrap", "dataviz", "visualization", "cytoscape.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Extreme tempratures over the years",
@@ -29,7 +32,8 @@
 		"name": "Interactive Map Viz",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["geojson", "dataviz", "visualization", "d3.js", "css", "html", "js", "mercator", "geographic", "timeseries", "interactive", "slider"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Stock Market Trend",
@@ -37,7 +41,8 @@
 		"name": "Intearctive Line chart",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["line chart", "dataviz", "visualization", "d3.js", "stock market", "css", "html", "js", "interactive", "slider"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Image Mapper",
@@ -45,7 +50,8 @@
 		"name": "Intearctive Line chart",
 		"tech": ["Projects", "js", "css", "html"],
 		"tags": ["application", "image mapper", "css", "html", "js", "interactive"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Top Emitting Companies",
@@ -53,7 +59,8 @@
 		"name": "Custom Radial Scatter Plot",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "scatter plot"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Climate Risk Index",
@@ -61,7 +68,8 @@
 		"name": "Custom Radial Bar Chart ",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "California Wildfire",
@@ -69,7 +77,8 @@
 		"name": "Custom Map Viz with Kepler.gl(Gif)",
 		"tech": ["Projects", "Design", "kepler.gl", "Photoshop"],
 		"tags": ["dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Sample Landing Pages",
@@ -77,7 +86,8 @@
 		"name": "Moving background Landing Page",
 		"tech": ["Projects", "Design", "D3.js", "css", "js", "html"],
 		"tags": ["3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Organization Network Graphs",
@@ -85,7 +95,8 @@
 		"name": "Cytoscape.js Network Graphs",
 		"tech": ["Projects", "Cytoscape.js", "css", "js", "html", "cytoscape.js"],
 		"tags": ["cytoscape.js", "network graph", "organizational", "3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "Graphic and UI",
@@ -93,7 +104,8 @@
 		"name": "Graphic Design and UI",
 		"tech": ["Projects", "Design"],
 		"tags": ["design"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	},
 	{
 		"title": "New Media Art",
@@ -101,6 +113,7 @@
 		"name": "Experimental Media",
 		"tech": ["Projects", "Design", "New-Media"],
 		"tags": ["design", "new media", "arts", "art"],
-		"data": {}
+		"data": {},
+		"color": "#eee"
 	}
 ]
