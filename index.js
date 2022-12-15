@@ -1,49 +1,106 @@
-var sidebar = document.querySelector(".sidebar")
-var sidebarElements = document.querySelectorAll(".sidebar div")
-var main = document.querySelector(".main-content-main")
-var footer = document.querySelector(".footer")
-const gridContainer = document.querySelector(".main-content")
-const elem = document.getElementById("graph")
-let gridHtml = ""
-
-var menu = document.getElementsByClassName("menu-icon") //returns an array wherein the [0] element is the div hence menu[0] below
-menu[0].addEventListener("click", function () {
-	sidebar.classList.toggle("collapsed")
-	main.classList.toggle("collapsed")
-	footer.classList.toggle("collapsed")
+// ParticlesJS Config.
+particlesJS("particles-js", {
+	particles: {
+		number: {
+			value: 180,
+			density: {
+				enable: true,
+				value_area: 800,
+			},
+		},
+		color: {
+			value: "#212121",
+		},
+		shape: {
+			type: "circle",
+			stroke: {
+				width: 0,
+				color: "#212121",
+			},
+			polygon: {
+				nb_sides: 5,
+			},
+		},
+		opacity: {
+			value: 0.5,
+			random: false,
+			anim: {
+				enable: false,
+				speed: 0.1,
+				opacity_min: 0.1,
+				sync: true,
+			},
+		},
+		size: {
+			value: 3,
+			random: true,
+			anim: {
+				enable: false,
+				speed: 5,
+				size_min: 0.1,
+				sync: false,
+			},
+		},
+		line_linked: {
+			enable: true,
+			distance: 70,
+			color: "#ffffff",
+			opacity: 0.4,
+			width: 1,
+		},
+		move: {
+			enable: true,
+			speed: 5,
+			direction: "none",
+			random: false,
+			straight: false,
+			out_mode: "out",
+			bounce: false,
+			attract: {
+				enable: false,
+				rotateX: 600,
+				rotateY: 600,
+			},
+		},
+	},
+	interactivity: {
+		detect_on: "canvas",
+		events: {
+			onhover: {
+				enable: true,
+				mode: "grab",
+			},
+			onclick: {
+				enable: true,
+				mode: "push",
+			},
+			resize: true,
+		},
+		modes: {
+			grab: {
+				distance: 140,
+				line_linked: {
+					opacity: 1,
+				},
+			},
+			bubble: {
+				distance: 400,
+				size: 40,
+				duration: 2,
+				opacity: 8,
+				speed: 3,
+			},
+			repulse: {
+				distance: 10,
+				duration: 4,
+			},
+			push: {
+				particles_nb: 4,
+			},
+			remove: {
+				particles_nb: 2,
+			},
+		},
+	},
+	retina_detect: true,
 })
-
-fetch("./data.json")
-	.then((res) => res.json())
-	.then((data) => {
-		sidebarElements.forEach((eachItem) => {
-			eachItem.addEventListener("click", (ele) => {
-				sidebarElements.forEach((eI) => {
-					eI.style.cssText = "font-size:14px;"
-				})
-				var className = ele.target.className
-				eachItem.style.cssText = "font-size:18px;"
-				gridHtml = ""
-
-				data.forEach((item) => {
-					if (item.tech.includes(className) == true) {
-						gridContainer.innerHTML = ""
-						gridHtml += `<a style="background-color:${item.color}" href="${item.url}"rel="noopener noreferrer" target="_blank">
-						<div class="grid-item">
-						<div>${item.title}</div> 			           
-						</div> </a>`
-						gridContainer.innerHTML = gridHtml
-					}
-				})
-			})
-		})
-
-		data.forEach((item) => {
-			gridHtml += `<a style="background-color:${item.color}" href="${item.url}"rel="noopener noreferrer" target="_blank">
-			<div>
-		      <div>${item.title}</div>
-		   </div>
-			</a>`
-		})
-		gridContainer.innerHTML = gridHtml
-	})
