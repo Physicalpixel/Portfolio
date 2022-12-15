@@ -46,8 +46,8 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 25%;
-	right: 74px;
+	width: 250px;
+	right: 71px;
 	position: fixed;
 }
 
@@ -78,6 +78,7 @@ input::placeholder {
 }
 
 .homeicon {
+	position: fixed;
 	background-color: #212121;
 	padding: 8px 8px;
 	color: #f6f6f6;

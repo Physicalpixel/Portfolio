@@ -26,6 +26,7 @@ body {
 }
 
 .portfolio {
+	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
 	border-radius: 4px;
 	margin-left: 20px;
 	position: absolute;
