@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <link rel="stylesheet" href="data.css" />
+</head>
+
+<body>
+   <form id="form">
+      <label for="type">Type:</label>
+      <select id="type" onchange="showInputFields()">
+         <option value="" selected>Select Type</option>
+         <option value="hierarchical">Hierarchical</option>
+         <option value="d3">d3JSON</option>
+         <option value="cy">CyJSON</option>
+      </select>
+      <br>
+      <div id="d3Cy-input-fields" style="display:none;">
+         <label for="d3">Nodes:</label>
+         <input type="number" id="nodes">
+         <br>
+         <label for="cy">Links:</label>
+         <input type="number" id="links">
+      </div>
+      <div id="hierarchy-input-fields" style="display:none;">
+         <label for="records">Number of records:</label><br />
+         <input type="number" id="records" name="records" /><br />
+         <label for="levels">Number of levels:</label><br />
+         <input type="number" id="levels" name="levels" /><br /><br />
+      </div>
+      <button type="submit" onclick="showCopyButton()">Generate</button>
+   </form>
+
+   <button id="copy-container" onclick="copyDivContent()"
+      style="display: none">Copy</button>
+   <div id="output" ></div>
+   <script src="data.js"></script>
+
+   <body>
+
+</html>
