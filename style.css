@@ -42,6 +42,23 @@ body {
 	padding: 10px;
 }
 
+.data {
+	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
+	border-radius: 4px;
+	margin-left: 200px;
+	position: absolute;
+	color: #f6f6f6;
+	background-color: #212121;
+	text-decoration: none;
+	top: calc(100vh - 200px);
+	padding: 15px;
+	font-family: "Open Sans", sans-serif;
+}
+.data:hover {
+	font-size: 18px;
+	padding: 10px;
+}
+
 .typewrite {
 	margin-left: 20px;
 	margin-top: 40px;
