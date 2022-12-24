@@ -10,9 +10,13 @@
       <label for="type">Type:</label>
       <select id="type" onchange="showInputFields()">
          <option value="" selected>Select Type</option>
+         <option value="JSON">JSON</option>
          <option value="hierarchical">Hierarchical</option>
          <option value="d3">d3JSON</option>
          <option value="cy">CyJSON</option>
+         <option value="sankeyJSON">sankeyJSON</option>
+
+
       </select>
       <br>
       <div id="d3Cy-input-fields" style="display:none;">
@@ -21,6 +25,11 @@
          <br>
          <label for="cy">Links:</label>
          <input type="number" id="links">
+         <br />
+			<!-- Checkbox for removing self-loops -->
+			<input type="checkbox" id="remove-self-loops" />
+			<label for="remove-self-loops">Remove self-loops</label>
+			<br />
       </div>
       <div id="hierarchy-input-fields" style="display:none;">
          <label for="records">Number of records:</label><br />
@@ -28,13 +37,29 @@
          <label for="levels">Number of levels:</label><br />
          <input type="number" id="levels" name="levels" /><br /><br />
       </div>
+      <div id="sales-input-fields" style="display:none;">
+         <label for="num-records">Number of records:</label>
+			<input type="number" id="num-records" value="10" />
+			<br /><br />
+			<label for="attributes">Attributes:</label>
+			<br />
+			<div id="attributes"></div>
+			<br />			
+      </div>
+      <div id="sankey-input-fields" style="display:none;">
+         <label for="num-nodes">Number of nodes:</label>
+			<input type="number" id="num-nodes" value="5" />
+			<br />
+			<label for="num-links">Number of links:</label>
+			<input type="number" id="num-links" value="4" />
+			<br />
+      </div>
       <button type="submit" onclick="showCopyButton()">Generate</button>
    </form>
 
    <button id="copy-container" onclick="copyDivContent()"
       style="display: none">Copy</button>
-   <div id="output" ></div>
-   <div> Add a generetor for data for dc.js</div>
+   <div id="output"></div>
    <script src="data.js"></script>
 
    <body>
