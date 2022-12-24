@@ -162,10 +162,12 @@ function generateCyJSON() {
 	}
 
 	// create the JSON data object for Cytoscape.js
-	var jsonData = { nodes: nodes, edges: links }
+	var data = { elements: { nodes: nodes, edges: links } }
 
 	// display the JSON data in the page
-	document.getElementById("output").innerHTML = JSON.stringify(jsonData, null, 2)
+	var prettifiedData = JSON.stringify(data, null, 2)
+	output.style.color = "black"
+	output.innerHTML = "Generated data:<br><pre>" + prettifiedData + "</pre>"
 }
 
 ///////////////////heirarchical data//////////////////////////////////
