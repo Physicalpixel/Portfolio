@@ -2,7 +2,7 @@
 	{
 		"title": "Network Graph (Silos and Isolates)",
 		"url": "https://physicalpixel.github.io/D3/Network_Graph/index.html",
-		"name": "Siols and Isolates",
+		"name": "Silos and Isolates",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
 		"data": {},
