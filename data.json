@@ -1,14 +1,16 @@
 [
 	{
+		"id": 1,
 		"title": "Network Graph (Silos and Isolates)",
 		"url": "https://physicalpixel.github.io/D3/Network_Graph/index.html",
-		"name": "Silos and Isolates",
+		"name": "Siols and Isolates",
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
 		"data": {},
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 2,
 		"title": "Interactive Timeseries",
 		"url": "https://physicalpixel.github.io/TimeSeries/index.html",
 		"name": "TimeSeries Bar Chart",
@@ -18,6 +20,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 3,
 		"title": "Organizational Network Simulator",
 		"url": "https://physicalpixel.github.io/Network_Simulator/Network_Simulator/index.htm",
 		"name": "Interactive Network Graph",
@@ -27,6 +30,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 4,
 		"title": "Extreme tempratures over the years",
 		"url": "https://physicalpixel.github.io/D3/Extreme_Temperature/index.html",
 		"name": "Interactive Map Viz",
@@ -36,6 +40,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 5,
 		"title": "Stock Market Trend",
 		"url": "https://physicalpixel.github.io/Assessments/Assessment_2/index.html",
 		"name": "Intearctive Line chart",
@@ -45,6 +50,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 6,
 		"title": "Image Mapper",
 		"url": "https://physicalpixel.github.io/Assessments/Assessment_1/index.html",
 		"name": "Intearctive Line chart",
@@ -54,6 +60,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 7,
 		"title": "Top Emitting Companies",
 		"url": "https://physicalpixel.github.io/D3/Final_Draft.html",
 		"name": "Custom Radial Scatter Plot",
@@ -63,6 +70,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 8,
 		"title": "Climate Risk Index",
 		"url": "https://physicalpixel.github.io/D3/CRI.html",
 		"name": "Custom Radial Bar Chart ",
@@ -72,6 +80,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 9,
 		"title": "California Wildfire",
 		"url": "https://physicalpixel.github.io/D3/california2.gif",
 		"name": "Custom Map Viz with Kepler.gl(Gif)",
@@ -81,6 +90,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 10,
 		"title": "Sample Landing Pages",
 		"url": "https://github.com/Physicalpixel/Landing_Page",
 		"name": "Moving background Landing Page",
@@ -90,6 +100,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 11,
 		"title": "Organization Network Graphs",
 		"url": "https://github.com/Physicalpixel/OG_Graph_Cytoscape",
 		"name": "Cytoscape.js Network Graphs",
@@ -99,6 +110,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 12,
 		"title": "Graphic and UI",
 		"url": "https://www.behance.net/preethi91",
 		"name": "Graphic Design and UI",
@@ -108,6 +120,7 @@
 		"color": "#EEEEEE"
 	},
 	{
+		"id": 13,
 		"title": "New Media Art",
 		"url": "https://preethikaran91.wixsite.com/portfolio",
 		"name": "Experimental Media",
