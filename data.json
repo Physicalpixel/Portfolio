@@ -7,7 +7,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
 		"data": {},
-		"color": "#EE2EEE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 2,
@@ -17,7 +17,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
 		"data": {},
-		"color": "#EEEE4E"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 3,
@@ -27,7 +27,7 @@
 		"tech": ["Projects", "Cytoscape.js", "css", "html", "Bootstrap"],
 		"tags": ["bootstrap", "dataviz", "visualization", "cytoscape.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
 		"data": {},
-		"color": "#EEE8EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 4,
@@ -37,7 +37,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["geojson", "dataviz", "visualization", "d3.js", "css", "html", "js", "mercator", "geographic", "timeseries", "interactive", "slider"],
 		"data": {},
-		"color": "#EEEabE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 5,
@@ -47,7 +47,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["line chart", "dataviz", "visualization", "d3.js", "stock market", "css", "html", "js", "interactive", "slider"],
 		"data": {},
-		"color": "#EE45EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 6,
@@ -57,7 +57,7 @@
 		"tech": ["Projects", "js", "css", "html"],
 		"tags": ["application", "image mapper", "css", "html", "js", "interactive"],
 		"data": {},
-		"color": "#EEE8EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 7,
@@ -67,7 +67,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "scatter plot"],
 		"data": {},
-		"color": "#E25EEE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 8,
@@ -77,7 +77,7 @@
 		"tech": ["Projects", "D3.js", "css", "html"],
 		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart"],
 		"data": {},
-		"color": "#EEc4EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 9,
@@ -87,7 +87,7 @@
 		"tech": ["Projects", "Design", "kepler.gl", "Photoshop"],
 		"tags": ["dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#15EEEE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 10,
@@ -97,7 +97,7 @@
 		"tech": ["Projects", "Design", "D3.js", "css", "js", "html"],
 		"tags": ["3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#EE66EE"
+		"color": "#EEEEEE""color": "#EEEEEE"
 	},
 	{
 		"id": 11,
@@ -107,7 +107,7 @@
 		"tech": ["Projects", "Cytoscape.js", "css", "js", "html", "cytoscape.js"],
 		"tags": ["cytoscape.js", "network graph", "organizational", "3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
-		"color": "#EE29EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 12,
@@ -117,7 +117,7 @@
 		"tech": ["Projects", "Design"],
 		"tags": ["design"],
 		"data": {},
-		"color": "#EE76EE"
+		"color": "#EEEEEE"
 	},
 	{
 		"id": 13,
@@ -127,6 +127,6 @@
 		"tech": ["Projects", "Design", "New-Media"],
 		"tags": ["design", "new media", "arts", "art"],
 		"data": {},
-		"color": "#E63EEE"
+		"color": "#EEEEEE"
 	}
 ]
