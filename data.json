@@ -139,6 +139,7 @@
 		"tech": ["Projects", "Design", "New-Media"],
 		"tags": ["design", "new media", "arts", "art"],
 		"data": {},
-		"color": "#EEEEEE"
+		"color": "#EEEEEE",
+		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
 	}
 ]
