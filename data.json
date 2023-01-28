@@ -118,7 +118,7 @@
 		"tags": ["cytoscape.js", "network graph", "organizational", "3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
 		"data": {},
 		"color": "#EEEEEE",
-		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/cytoscape-01.svg"
+		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
 	},
 	{
 		"id": 12,
@@ -129,7 +129,7 @@
 		"tags": ["design"],
 		"data": {},
 		"color": "#EEEEEE",
-		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/graphic-01.svg"
+		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
 	},
 	{
 		"id": 13,
@@ -139,7 +139,6 @@
 		"tech": ["Projects", "Design", "New-Media"],
 		"tags": ["design", "new media", "arts", "art"],
 		"data": {},
-		"color": "#EEEEEE",
-		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/newmedia-01.svg"
+		"color": "#EEEEEE"
 	}
 ]
