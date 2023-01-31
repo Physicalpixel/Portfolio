@@ -5,7 +5,7 @@
 		"url": "https://physicalpixel.github.io/D3/Network_Graph/index.html",
 		"name": "Siols and Isolates",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["force simulation", "dataviz", "visualization", "network graph", "d3.js", "css", "html", "js", "interactive"],
+		"tags": [ "d3.js", "network graph", "interactive", "force simulation", "dataviz", "visualization", "css", "html", "js" ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/silos-01.svg"
@@ -16,7 +16,7 @@
 		"url": "https://physicalpixel.github.io/TimeSeries/index.html",
 		"name": "TimeSeries Bar Chart",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
+		"tags": ["d3.js", "interactive", "brush", "css", "html", "js", "bar chart",  "racing",  "timeseries", "slider","dataviz", "visualization" ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/interactive_timeseries-02.svg"
@@ -27,7 +27,7 @@
 		"url": "https://physicalpixel.github.io/Network_Simulator/Network_Simulator/index.htm",
 		"name": "Interactive Network Graph",
 		"tech": ["Projects", "Cytoscape.js", "css", "html", "Bootstrap"],
-		"tags": ["bootstrap", "dataviz", "visualization", "cytoscape.js", "css", "html", "js", "radial", "bar chart", "brush", "racing", "interactive", "timeseries", "slider"],
+		"tags": ["cytoscape.js", "interactive", "dataviz", "bootstrap", "visualization", "css", "html", "js" ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkSim-01.svg"
@@ -38,7 +38,7 @@
 		"url": "https://physicalpixel.github.io/D3/Extreme_Temperature/index.html",
 		"name": "Interactive Map Viz",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["geojson", "dataviz", "visualization", "d3.js", "css", "html", "js", "mercator", "geographic", "timeseries", "interactive", "slider"],
+		"tags": ["d3.js", "geographic", "timeseries", "geojson", "dataviz", "visualization",  "map", "css", "html", "js", "mercator",   "interactive", "slider"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/usa_extreme_temp-01.svg"
@@ -49,7 +49,7 @@
 		"url": "https://physicalpixel.github.io/Assessments/Assessment_2/index.html",
 		"name": "Intearctive Line chart",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["line chart", "dataviz", "visualization", "d3.js", "stock market", "css", "html", "js", "interactive", "slider"],
+		"tags": [ "d3.js", "interactive", "line chart", "dataviz", "visualization", "stock market", "css", "html", "js",  "slider"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
@@ -60,7 +60,7 @@
 		"url": "https://physicalpixel.github.io/Assessments/Assessment_1/index.html",
 		"name": "Intearctive Line chart",
 		"tech": ["Projects", "js", "css", "html"],
-		"tags": ["application", "image mapper", "css", "html", "js", "interactive"],
+		"tags": ["html","application","interactive", "image mapper", "css",  "js", ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
@@ -71,7 +71,7 @@
 		"url": "https://physicalpixel.github.io/D3/Final_Draft.html",
 		"name": "Custom Radial Scatter Plot",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "scatter plot"],
+		"tags": ["d3.js", "radial", "scatter plot", "dataviz", "visualization",  "css", "html", "js"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/emission-01.svg"
@@ -82,7 +82,7 @@
 		"url": "https://physicalpixel.github.io/D3/CRI.html",
 		"name": "Custom Radial Bar Chart ",
 		"tech": ["Projects", "D3.js", "css", "html"],
-		"tags": ["dataviz", "visualization", "d3.js", "css", "html", "js", "radial", "bar chart"],
+		"tags": [ "d3.js", "radial", "bar chart", "dataviz", "visualization", "css", "html", "js"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/income-01.svg"
@@ -93,7 +93,7 @@
 		"url": "https://physicalpixel.github.io/D3/california2.gif",
 		"name": "Custom Map Viz with Kepler.gl(Gif)",
 		"tech": ["Projects", "Design", "kepler.gl", "Photoshop"],
-		"tags": ["dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
+		"tags": ["kepler.gl", "timeseries", "geographic", "dataviz", "visualization", "scatter plot", "mercator"  ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/california-01.svg"
@@ -104,7 +104,7 @@
 		"url": "https://github.com/Physicalpixel/Landing_Page",
 		"name": "Moving background Landing Page",
 		"tech": ["Projects", "Design", "D3.js", "css", "js", "html"],
-		"tags": ["3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
+		"tags": ["ui", "landing page", "web", "single page","3d",  "layout", "sample", "dataviz", "visualization"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
@@ -115,7 +115,7 @@
 		"url": "https://github.com/Physicalpixel/OG_Graph_Cytoscape",
 		"name": "Cytoscape.js Network Graphs",
 		"tech": ["Projects", "Cytoscape.js", "css", "js", "html", "cytoscape.js"],
-		"tags": ["cytoscape.js", "network graph", "organizational", "3d", "ui", "landing page", "web", "single page", "layout", "sample", "dataviz", "visualization", "scatter plot", "mercator", "geographic", "timeseries"],
+		"tags": ["cytoscape.js", "network graph", "organizational", "dataviz", "visualization"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/cytoscape-01.svg"
@@ -126,7 +126,7 @@
 		"url": "https://www.behance.net/preethi91",
 		"name": "Graphic Design and UI",
 		"tech": ["Projects", "Design"],
-		"tags": ["design"],
+		"tags": ["design", "ui", "graphic"],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/graphic-01.svg"
@@ -137,7 +137,7 @@
 		"url": "https://preethikaran91.wixsite.com/portfolio",
 		"name": "Experimental Media",
 		"tech": ["Projects", "Design", "New-Media"],
-		"tags": ["design", "new media", "arts", "art"],
+		"tags": ["new media", "arts", "design", "art" ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/newmedia-01.svg"
