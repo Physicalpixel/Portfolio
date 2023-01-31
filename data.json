@@ -60,7 +60,7 @@
 		"url": "https://physicalpixel.github.io/Assessments/Assessment_1/index.html",
 		"name": "Intearctive Line chart",
 		"tech": ["Projects", "js", "css", "html"],
-		"tags": ["html","application","interactive", "image mapper", "css",  "js", ],
+		"tags": ["html","application","interactive", "image mapper", "css",  "js" ],
 		"data": {},
 		"color": "#EEEEEE",
 		"bgurl": "https://raw.githubusercontent.com/Physicalpixel/Data/main/folioimg/networkg.png"
